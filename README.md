@@ -1,1 +1,1 @@
-# HTML-freecode-project
+# HTML-project-planet
